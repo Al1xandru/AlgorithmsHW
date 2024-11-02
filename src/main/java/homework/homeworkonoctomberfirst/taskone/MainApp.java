@@ -1,4 +1,4 @@
-package homework.homeworkonseptemberfirst.taskone;
+package homework.homeworkonoctomberfirst.taskone;
 
 // Task A.
 // Одним из классических примеров использования амортизированного анализа является
